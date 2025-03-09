@@ -1,4 +1,6 @@
-# DevoAi
+** Under Development **
+
+# DevoAi 
 
 ## Overview
 The Indian History Bot is an AI-powered chatbot designed to help users understand Indian history and resolve doubts related to it. The bot provides insights into various historical periods, key events, and important personalities, making history more accessible and engaging.
